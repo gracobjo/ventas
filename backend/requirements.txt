@@ -1,0 +1,39 @@
+# FastAPI y dependencias web
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# PySpark para big data
+pyspark==3.5.0
+pyarrow==14.0.2
+
+# Machine Learning y Forecasting
+scikit-learn==1.3.2
+prophet==1.1.4
+pandas==2.1.4
+numpy==1.25.2
+statsmodels==0.14.0
+
+# Sistema de recomendaciones
+implicit==0.7.0
+
+# Visualización y análisis
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.17.0
+
+# Base de datos
+sqlalchemy==2.0.23
+
+# Utilidades
+python-dotenv==1.0.0
+pydantic==2.5.0
+joblib==1.3.2
+scipy==1.11.4
+
+# CORS para frontend
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+
