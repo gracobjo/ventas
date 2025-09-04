@@ -4,7 +4,7 @@ uvicorn[standard]==0.24.0
 python-multipart==0.0.6
 
 # PySpark para big data
-pyspark==3.5.0
+pyspark==4.0.0
 pyarrow==14.0.2
 
 # Machine Learning y Forecasting
