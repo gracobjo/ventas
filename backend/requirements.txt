@@ -10,7 +10,7 @@ pyarrow==21.0.0
 # Machine Learning y Forecasting
 scikit-learn==1.6.1
 prophet==1.1.4
-pandas==2.1.4
+pandas==2.3.2
 numpy==2.0.2
 statsmodels==0.14.5
 
