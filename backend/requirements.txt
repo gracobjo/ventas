@@ -5,7 +5,7 @@ python-multipart==0.0.20
 
 # PySpark para big data
 pyspark==4.0.0
-pyarrow==14.0.2
+pyarrow==21.0.0
 
 # Machine Learning y Forecasting
 scikit-learn==1.6.1
