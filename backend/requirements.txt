@@ -20,7 +20,7 @@ implicit==0.7.0
 # Visualización y análisis
 matplotlib==3.8.2
 seaborn==0.13.0
-plotly==5.17.0
+plotly==6.3.0
 
 # Base de datos
 sqlalchemy==2.0.23
