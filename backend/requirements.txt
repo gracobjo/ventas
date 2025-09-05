@@ -18,9 +18,10 @@ statsmodels==0.14.5
 implicit==0.7.2
 
 # Visualización y análisis
-matplotlib==3.8.2
+matplotlib==3.9.4
 seaborn==0.13.2
 plotly==6.3.0
+matplotlib==3.8.2
 
 # Base de datos
 sqlalchemy==2.0.43
